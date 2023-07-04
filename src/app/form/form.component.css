@@ -1,0 +1,17 @@
+.form{
+    width: 40%;
+    margin-left: 100px;
+    display: block;
+}
+.right{
+    display: block;
+    margin-top: 70px;
+    margin-left: 40px;
+}
+.parent{
+    display: flex;
+    flex-direction: row;
+}
+.error-message{
+    color: #b31a1a;
+}

@@ -1,1 +1,31 @@
 /* You can add global styles to this file, and also import other style files */
+@import "primeng/resources/themes/lara-light-blue/theme.css";
+@import "primeng/resources/primeng.css";
+body {
+    font-family: var(--font-family);
+}
+.custom-button {
+    
+    display: inline-flex;
+    
+     margin-top: 5px;
+   
+  }
+.design{
+    background-color: rgb(215, 220, 220);
+   
+    height: 40%;
+}
+.sakib{
+  color: #dc0c1e;
+}
+ 
+.form{
+  margin-top: 10px;
+}
+.button{
+  margin-left: 25%;
+}
+ .right{
+  margin-left: 20%;
+ }
